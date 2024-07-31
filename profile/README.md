@@ -10,6 +10,8 @@ Welcome to the official GitHub space for open-source projects from the [autotech
 | --- | --- | --- | :---: | :---: |
 | [Sample Repository](https://github.com/TBD) | Short description of the repository | Contributing Partner(s) | <img src="https://img.shields.io/github/stars/TBD?style=social"/> <br/> [Paper (2024)](https://TBD) | <img src="https://github.com/ika-rwth-aachen/carlos/blob/main/utils/images/logo.png?raw=true" width="80" /> |
 
+<img src="../assets/unicaragil-vehicles.png">
+
 ## Open-Source Contributions
 
 ### Sense
