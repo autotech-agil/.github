@@ -1,4 +1,4 @@
-# autotech.agil | Architectures and Tools for Automated and Connected Mobility Systems
+# autotech.agil | Architectures and Tools for <br>Automated and Connected Mobility Systems
 
 <img src="../assets/AUTOtechagil-Skizze-v2-engl-web-logos.svg">
 
