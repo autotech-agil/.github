@@ -1,6 +1,7 @@
 # autotech.agil | Architectures and Tools for <br>Automated and Connected Mobility Systems
 
-<img src="../assets/AUTOtechagil-Skizze-v2-engl-web-logos.svg">
+![Project overview](../assets/AUTOtechagil-Skizze-v2-engl-web-logos.svg#gh-light-mode-only)
+![Project overview](../assets/AUTOtechagil-Skizze-v2-engl-web-logos_darkmode.svg#gh-dark-mode-only)
 
 Welcome to the official GitHub space for open-source projects from the [autotech.agil](https://www.autotechagil.de) project. Here, you'll find a comprehensive overview of our **open-source contributions**, as well as **demonstration repositories** that showcase the combined utility of our various projects.
 
