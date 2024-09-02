@@ -19,55 +19,37 @@ Successful achievement of the project goal is only possible through interdiscipl
 
 ## Demonstration Repositories
 
->Cross-partner demo repositories are collected here, which demonstrate project results using exemplary use cases.
+>Cross-partner demo repositories will be collected here, which demonstrate project results using exemplary use cases.
 
-| Repository | Description | Partner(s) | References | <div style="width:80"></div> | 
-| --- | --- | --- | :---: | :---: |
+| Repository | Description | References | <div style="width:80"></div> | 
+| --- | --- | --- | --- |
 | TBD | TBD | TBD | TBD |
 
 <img src="../assets/unicaragil-vehicles.png">
 
 ## Open-Source Contributions
 
-### Sense
-
-| Repository | Description | Partner(s) | References | <div style="width:80"></div> | 
-| --- | --- | --- | :---: | :---: |
-| TBD | TBD | TBD | TBD | TBD |
-
-### Plan
-
-| Repository | Description | Partner(s) | References | <div style="width:80"></div> | 
-| --- | --- | --- | :---: | :---: |
-| TBD | TBD | TBD | TBD | TBD |
-
-### Act
-
-| Repository | Description | Partner(s) | References | <div style="width:80"></div> | 
-| --- | --- | --- | :---: | :---: |
-| TBD | TBD | TBD | TBD | TBD |
-
 ### V2X & Communication
 
-| Repository | Description | Partner(s) | References | <div style="width:80"></div> | 
-| --- | --- | --- | :---: | :---: |
-| [etsi_its_messages](https://github.com/ika-rwth-aachen/etsi_its_messages) | ROS support for ETSI ITS messages: Use standardized ETSI ITS messages for V2X communication in ROS systems | RWTH-IKA | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/etsi_its_messages?style=social"/> <br/> [Paper (2024)](https://arxiv.org/abs/2403.10221) | <img src="https://github.com/ika-rwth-aachen/docker-ros/blob/main/assets/logo.png?raw=true" width="80" /> |
+| Repository | Description | References | <div style="width:80"></div> | 
+| --- | --- | --- | :---: |
+| [etsi_its_messages](https://github.com/ika-rwth-aachen/etsi_its_messages) | ROS support for ETSI ITS messages: Use standardized ETSI ITS messages for V2X communication in ROS systems | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/etsi_its_messages?style=social"/> <br/> [Paper (2024)](https://arxiv.org/abs/2403.10221) | <img src="https://github.com/ika-rwth-aachen/docker-ros/blob/main/assets/logo.png?raw=true" width="80" /> |
 
 ### Simulation & Safety Assurance
 
-| Repository | Description | Partner(s) | References | <div style="width:80"></div> | 
-| --- | --- | --- | :---: | :---: |
-| [CARLOS](https://github.com/ika-rwth-aachen/carlos) | An Open, Modular, and Scalable Simulation Framework for the Development and Testing of Software for C-ITS: Take CARLA simulation to the next level | RWTH-IKA | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/carlos?style=social"/> <br/> [Paper (2024)](http://arxiv.org/abs/2404.01836) | <img src="https://github.com/ika-rwth-aachen/carlos/blob/main/utils/images/logo.png?raw=true" width="80" /> |
+| Repository | Description | References | <div style="width:80"></div> | 
+| --- | --- | --- | :---: |
+| [CARLOS](https://github.com/ika-rwth-aachen/carlos) | An Open, Modular, and Scalable Simulation Framework for the Development and Testing of Software for C-ITS: Take CARLA simulation to the next level | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/carlos?style=social"/> <br/> [Paper (2024)](http://arxiv.org/abs/2404.01836) | <img src="https://github.com/ika-rwth-aachen/carlos/blob/main/utils/images/logo.png?raw=true" width="80" /> |
 
 ### DevOps & Middleware
 
-| Repository | Description | Partner(s) | References | <div style="width:80"></div> | 
-| --- | --- | --- | :---: | :---: |
-| [docker-ros](https://github.com/ika-rwth-aachen/docker-ros) | Microservice-based Development and Deployment: Containerize your ROS / ROS 2 packages or package stacks for simple deployment | RWTH-IKA | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-ros?style=social"/> <br/> [Paper (2023)](https://arxiv.org/abs/2309.06611) | <img src="https://github.com/ika-rwth-aachen/carlos/blob/main/utils/images/logo.png?raw=true" width="80" /> |
-| [RobotKube](https://github.com/ika-rwth-aachen/robotkube) | Fully automated fleet orchestration: Orchestrate large-scale cooperative multi-robot systems with Kubernetes and the Robot Operating System | RWTH-IKA | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/robotkube?style=social"/> <br/> [Paper (2023)](https://ieeexplore.ieee.org/document/10422370) | <img src="https://github.com/ika-rwth-aachen/robotkube/blob/main/assets/robotkube_logo.png?raw=true" width="80" /> |
+| Repository | Description | References | <div style="width:80"></div> | 
+| --- | --- | --- | :---: |
+| [docker-ros](https://github.com/ika-rwth-aachen/docker-ros) | Microservice-based Development and Deployment: Containerize your ROS / ROS 2 packages or package stacks for simple deployment | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/docker-ros?style=social"/> <br/> [Paper (2023)](https://arxiv.org/abs/2309.06611) | <img src="https://github.com/ika-rwth-aachen/docker-ros/blob/main/assets/logo.png?raw=true" width="80" /> |
+| [RobotKube](https://github.com/ika-rwth-aachen/robotkube) | Fully automated fleet orchestration: Orchestrate large-scale cooperative multi-robot systems with Kubernetes and the Robot Operating System | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/robotkube?style=social"/> <br/> [Paper (2023)](https://ieeexplore.ieee.org/document/10422370) | <img src="https://github.com/ika-rwth-aachen/robotkube/blob/main/assets/robotkube_logo.png?raw=true" width="80" /> |
 
 ### Education
 
-| Repository | Description | Partner(s) | References | <div style="width:80"></div> | 
-| --- | --- | --- | :---: | :---: |
-| TBD | TBD | TBD | TBD | TBD |
+| Repository | Description | References | <div style="width:80"></div> | 
+| --- | --- | :---: | :---: |
+| [Automated & Connected Driving Challenges (edX.org)](https://github.com/ika-rwth-aachen/acdc) | ACDC MOOC: Gain practical experience in automated driving with coding exercises that teach you the latest methods and tools | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/acdc?style=social"/> <br/> <img src="https://img.shields.io/github/stars/ika-rwth-aachen/acdc-notebooks?style=social"/> <br/> [edX Course](https://www.edx.org/learn/automation/rwth-aachen-university-automated-and-connected-driving-challenges) | <img src="https://pbs.twimg.com/ext_tw_video_thumb/1447574999506771970/pu/img/-02L166C-CeO2UGO.jpg" width="80" /> |
