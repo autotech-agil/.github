@@ -33,7 +33,9 @@ Successful achievement of the project goal is only possible through interdiscipl
 
 | Repository | Description | References | <div style="width:80"></div> | 
 | --- | --- | --- | :---: |
+| [amqp_topic_transceiver](https://github.com/uulm-mrm/amqp_topic_transceiver) | Transmitting binary ROS2 messages over AMQP connections | <img src="https://img.shields.io/github/stars/uulm-mrm/amqp_topic_transceiver?style=social"/> |  |
 | [etsi_its_messages](https://github.com/ika-rwth-aachen/etsi_its_messages) | ROS support for ETSI ITS messages: Use standardized ETSI ITS messages for V2X communication in ROS systems | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/etsi_its_messages?style=social"/> <br/> [Paper (2024)](https://arxiv.org/abs/2403.10221) | <img src="https://github.com/ika-rwth-aachen/etsi_its_messages/raw/main/assets/teaser.gif" width="80" /> |
+| [v2x_etsi_asn1](https://github.com/uulm-mrm/v2x_etsi_asn1) | Transmitting UPER ASN.1 encoded ETSI messages over AMQP connections | <img src="https://img.shields.io/github/stars/uulm-mrm/v2x_etsi_asn1?style=social"/> |  |
 
 ### Simulation & Safety Assurance
 
