@@ -33,7 +33,7 @@ Successful achievement of the project goal is only possible through interdiscipl
 
 | Repository | Description | References | <div style="width:80"></div> | 
 | --- | --- | --- | :---: |
-| [etsi_its_messages](https://github.com/ika-rwth-aachen/etsi_its_messages) | ROS support for ETSI ITS messages: Use standardized ETSI ITS messages for V2X communication in ROS systems | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/etsi_its_messages?style=social"/> <br/> [Paper (2024)](https://arxiv.org/abs/2403.10221) | <img src="https://github.com/ika-rwth-aachen/docker-ros/blob/main/assets/logo.png?raw=true" width="80" /> |
+| [etsi_its_messages](https://github.com/ika-rwth-aachen/etsi_its_messages) | ROS support for ETSI ITS messages: Use standardized ETSI ITS messages for V2X communication in ROS systems | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/etsi_its_messages?style=social"/> <br/> [Paper (2024)](https://arxiv.org/abs/2403.10221) | <img src="https://github.com/ika-rwth-aachen/etsi_its_messages/raw/main/assets/teaser.gif" width="80" /> |
 
 ### Simulation & Safety Assurance
 
