@@ -29,6 +29,12 @@ Successful achievement of the project goal is only possible through interdiscipl
 
 ## Open-Source Contributions
 
+### Plan
+
+| Repository | Description | References | <div style="width:80"></div> | 
+| --- | --- | --- | :---: |
+| [arbitration_graphs](https://github.com/KIT-MRT/arbitration_graphs) | Arbitration graphs combine simple atomic behavior components into more complex behaviors for decision-making and behavior generation | <img src="https://img.shields.io/github/stars/KIT-MRT/arbitration_graphs?style=social"/> |  |
+
 ### V2X & Communication
 
 | Repository | Description | References | <div style="width:80"></div> | 
