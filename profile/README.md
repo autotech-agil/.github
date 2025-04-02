@@ -17,14 +17,6 @@ Successful achievement of the project goal is only possible through interdiscipl
 
 >The research project is funded by the German Federal Ministry of Education and Research (BMBF) under grant agreement number 01IS22088.
 
-## Demonstration Repositories
-
->Cross-partner demo repositories will be collected here, which demonstrate project results using exemplary use cases.
-
-| Repository | Description | References | <div style="width:80"></div> | 
-| --- | --- | --- | --- |
-| TBD | TBD | TBD | TBD |
-
 <img src="../assets/unicaragil-vehicles.png">
 
 ## Open-Source Contributions
