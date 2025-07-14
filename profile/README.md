@@ -52,7 +52,7 @@ Successful achievement of the project goal is only possible through interdiscipl
 
 ### Orchestration
 
-| Repository | Description |  | <div style="width:80"></div> | 
+| Repository | Description | References | <div style="width:80"></div> | 
 | --- | --- | :---: | :---: |
 | [Application Manager](https://github.com/ika-rwth-aachen/application_manager) | Application management framework based on Kubernetes and ROS 2: *Orchestrate demand-driven deployments and reconfigurations* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/application_manager?style=social"/> <br/> |  |
 
