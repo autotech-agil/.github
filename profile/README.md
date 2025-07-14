@@ -50,6 +50,12 @@ Successful achievement of the project goal is only possible through interdiscipl
 | [embeddedRTPS](https://github.com/embedded-software-laboratory/embeddedRTPS) | Portable implementation of the RTPS/DDS protocol for embedded devices  | <img src="https://img.shields.io/github/stars/embedded-software-laboratory/embeddedRTPS?style=social"/> <br/> [Paper (2019)](https://ieeexplore.ieee.org/document/8916835)) | <img src="https://avatars.githubusercontent.com/u/1304434?s=48&v=4" width="80" /> |
 | [RobotKube](https://github.com/ika-rwth-aachen/robotkube) | Fully automated fleet orchestration: Orchestrate large-scale cooperative multi-robot systems with Kubernetes and the Robot Operating System | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/robotkube?style=social"/> <br/> [Paper (2023)](https://ieeexplore.ieee.org/document/10422370) | <img src="https://github.com/ika-rwth-aachen/robotkube/blob/main/assets/robotkube_logo.png?raw=true" width="80" /> |
 
+### Orchestration
+
+| Repository | Description |  | <div style="width:80"></div> | 
+| --- | --- | :---: | :---: |
+| [Application Manager](https://github.com/ika-rwth-aachen/application_manager) | Application management framework based on Kubernetes and ROS 2: *Orchestrate demand-driven deployments and reconfigurations* | <img src="https://img.shields.io/github/stars/ika-rwth-aachen/application_manager?style=social"/> <br/> |  |
+
 ### Education
 
 | Repository | Description | References | <div style="width:80"></div> | 
